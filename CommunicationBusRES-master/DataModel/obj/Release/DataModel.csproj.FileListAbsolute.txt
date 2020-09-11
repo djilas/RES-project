@@ -1,0 +1,6 @@
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\bin\Release\DataModel.dll
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\bin\Release\DataModel.pdb
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Release\DataModel.csprojAssemblyReference.cache
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Release\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Release\DataModel.dll
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Release\DataModel.pdb

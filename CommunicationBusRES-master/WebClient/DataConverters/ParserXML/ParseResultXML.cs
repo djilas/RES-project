@@ -6,7 +6,7 @@
 		public string SQL { get; }
 
 		public int ErrorNumber { get; }
-
+		
 		public string ErrorCode { get; }
 
 		public string ErrorMessage { get; }

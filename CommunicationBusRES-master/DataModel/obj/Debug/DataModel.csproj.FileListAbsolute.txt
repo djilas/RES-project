@@ -1,0 +1,34 @@
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataModel\bin\Debug\DataModel.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataModel\obj\Debug\DataModel.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataModel\bin\Debug\DataModel.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataModel\obj\Debug\DataModel.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataModel\bin\Debug\DataModel.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\bin\Debug\DataModel.dll
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.dll
+C:\Users\Predrag\Downloads\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.pdb
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataModel\bin\Debug\DataModel.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataModel\bin\Debug\DataModel.pdb
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataModel\bin\Debug\DataModel.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataModel\obj\Debug\DataModel.pdb

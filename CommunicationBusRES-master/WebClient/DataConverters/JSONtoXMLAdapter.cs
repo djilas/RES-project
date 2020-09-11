@@ -20,5 +20,14 @@ namespace DataConverters
 
 			return stringWriter.ToString();
 		}
+
+		public string ConvertXMLtoJSON(string XML_string)
+		{
+			XmlDocument doc = new XmlDocument();
+			doc.Load(XML_string);
+			string jsonString = JsonConvert.SerializeXmlNode(doc);
+			return jsonString;
+		}
+
 	}
 }

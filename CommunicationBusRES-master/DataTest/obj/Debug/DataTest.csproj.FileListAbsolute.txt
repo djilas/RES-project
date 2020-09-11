@@ -1,0 +1,105 @@
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.api.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.core.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.dll.config
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.pdb
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\Castle.Core.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\Moq.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.exe
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\DataModel.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\EntityFramework.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.pdb
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.dll.config
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.pdb
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.exe.config
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\Castle.Core.xml
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\Moq.xml
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.pdb
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.xml
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\DataModel.pdb
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\bin\Debug\EntityFramework.xml
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csprojAssemblyReference.cache
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csproj.CoreCompileInputs.cache
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csproj.CopyComplete
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.dll
+C:\Users\WhiteSnake\Documents\RES-project\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.api.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.core.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.dll.config
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Castle.Core.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Moq.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.exe
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataModel.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.dll.config
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.exe.config
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Castle.Core.xml
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Moq.xml
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.xml
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataModel.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.dll
+C:\Users\Lenovo\Desktop\PROJEKAT RES\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.api.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.engine.core.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.dll.config
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataTest.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Castle.Core.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Moq.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.exe
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataModel.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\EntityFramework.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataConverters.dll.config
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\WebClient.exe.config
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Castle.Core.xml
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\Moq.xml
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\nunit.framework.xml
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\DataModel.pdb
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\bin\Debug\EntityFramework.xml
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csprojAssemblyReference.cache
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csproj.CoreCompileInputs.cache
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.csproj.CopyComplete
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.dll
+C:\Users\Predrag\Documents\CommunicationBusRES\CommunicationBusRES-master\DataTest\obj\Debug\DataTest.pdb

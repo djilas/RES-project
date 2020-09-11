@@ -25,8 +25,10 @@ namespace WebClient
 				if(result.Success)
 				{
 					JSONtoXMLAdapter adapter = new JSONtoXMLAdapter();
-					string xmlResult = adapter.ConvertJSONtoXML(result.JSON);
-					//Console.WriteLine(xmlResult);
+					
+					
+					string JsonResult = adapter.ConvertJSONtoXML(result.JSON);
+					
 				}
 				else
 				{

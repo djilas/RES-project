@@ -1,0 +1,60 @@
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\DataConverters.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\DataConverters.pdb
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\DataModel.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\Microsoft.SqlServer.XMLSrc.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\DataModel.pdb
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\obj\Debug\DataConverters.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\obj\Debug\DataConverters.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\obj\Debug\DataConverters.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\obj\Debug\DataConverters.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\obj\Debug\DataConverters.pdb
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\DataConverters.dll.config
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\ProjekatRES Septembar\WebClient\DataConverters\bin\Debug\System.ValueTuple.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\DataConverters.dll.config
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\DataConverters.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\DataConverters.pdb
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\DataModel.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Buffers.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Memory.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Text.Json.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.ValueTuple.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\DataModel.pdb
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Buffers.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Memory.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Text.Json.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\bin\Debug\System.ValueTuple.xml
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\obj\Debug\DataConverters.csprojAssemblyReference.cache
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\obj\Debug\DataConverters.csproj.CoreCompileInputs.cache
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\obj\Debug\DataConverters.csproj.CopyComplete
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\obj\Debug\DataConverters.dll
+C:\Users\Predrag\Desktop\RES\Moj\CommunicationBusRES-master\WebClient\DataConverters\obj\Debug\DataConverters.pdb
